@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YargKlnc,
-- 👋 Studied Data Analysis in UofT, Civil Engineering in EMU and completed my MBA in OU,
+- 👋 Studied Data Analysis in UofT, Civil Engineering in EMU and MBA in OU,
 - 👀 I support multifunctional teams with data analysis,
 - 👀 I work on Python, VBA, Jupyter Notebook, Pandas, SQL, SQL Alchemy,
 - 👀 I am experienced in global business development & new market entry strategies, 

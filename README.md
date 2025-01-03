@@ -1,4 +1,4 @@
-👋 **Hi, I’m Yargi Kilinc (@YargKlnc) | Data Analyst (UofT) | M
+👋 **Hi, I’m Yargi Kilinc (@YargKlnc) | Data Analyst (UofT) | MBA (OU) | C.Engineer (EMU)
 
 👀 I support multifunctional teams with crm sales data analysis and give trainings on effective lead & opportunity management in Salesforce,
 👀 I use Python, Jupyter Notebook, Pandas, SQL, SQL Alchemy, Javascript, Tableau and build AI & Machine Learning apps that is relates with user inputs,

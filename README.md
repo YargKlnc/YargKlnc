@@ -1,7 +1,7 @@
 - 👋 **Hi, I’m Yargi Kilinc (@YargKlnc) | Data Analyst (UofT) | MBA (OU) | C.Engineer (EMU)**
 
  - 👀 I support multifunctional teams with CRM data analysis and provide training on effective lead and opportunity management in **Salesforce**, catering to users of all levels, from beginners to advanced.  
- - 👀 I build customized reports and dashboards tailored to the needs of various organizational levels.
+ - 👀 I build customized **reports and dashboards** tailored to the needs of various organizational levels.
  - 👀 I use **Python, Jupyter Notebook, Pandas, SQL, SQL Alchemy, Javascript, Tableau** and build apps that is relates with user inputs.
  - 👀 I am experienced in **sales data analysis, creating Salesforce reports, dashboards, and visualizations, developing Tableau dashboards, and formulating data-driven strategies**.
  - 🌱 I’m currently working on **Salesforce Administrator and Salesforce Agentforce AI certifications**.
